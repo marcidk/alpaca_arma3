@@ -21,8 +21,6 @@ Do something on others: <kbd>Win</kbd>. Do something on yourself: <kbd>Ctrl</kbd
 
 ST_GI: https://www.youtube.com/watch?v=SkxY4Ur2eOw
 
-ST_Interact: https://www.youtube.com/watch?v=oek8fCTTkYk
-
 ST_Map_Autobrightness: https://www.youtube.com/watch?v=On2iUcA0Iw8
 
 ST_Nametags: https://www.youtube.com/watch?v=GUELlxwlOcM
