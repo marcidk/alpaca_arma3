@@ -15,9 +15,7 @@ You need to enable every mod inside the game, to do so:
 ## What does it do?
 CBA: Allows you to use other mods.
 
-AGM: Two main menues:
-
-Do something on others: <kbd>Win</kbd>. Do something on yourself: <kbd>Ctrl</kbd> + <kbd>Win</kbd>. It does many many things, look here: http://makearmanotwar.com/entry/7jnWM53S2e#.VNanFPnF98F
+AGM: Two main menues: Do something on others: <kbd>Win</kbd>. Do something on yourself: <kbd>Ctrl</kbd> + <kbd>Win</kbd>. It does many many things, look here: http://makearmanotwar.com/entry/7jnWM53S2e#.VNanFPnF98F
 
 ST_GI: https://www.youtube.com/watch?v=SkxY4Ur2eOw
 
